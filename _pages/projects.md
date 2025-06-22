@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of projects I have worked on. Both work and hobby.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [work, hobby]
 horizontal: false
 ---
 

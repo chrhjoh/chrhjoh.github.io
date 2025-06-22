@@ -93,7 +93,7 @@
     },
     {
       "name": "Data Science & Analytics",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-fire",
       "keywords": [
         "Pytorch",
         "Scikit-learn",
@@ -107,7 +107,7 @@
     },
     {
       "name": "Visualizations and logging",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-chart-simple",
       "keywords": [
         "Shiny",
         "tidyverse",
@@ -118,7 +118,7 @@
     {
       "name": "DevOps & Computing",
       "level": "Advanced",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-server",
       "keywords": [
         "Git",
         "SLURM",
