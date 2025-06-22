@@ -6,7 +6,6 @@ description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
-social: true # includes social icons at the bottom of the page
 horizontal: false
 ---
 

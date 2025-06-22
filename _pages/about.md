@@ -2,14 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: MSc.Eng, PhD Student at <a href='https://publichealth.ku.dk/about-the-department/section-for-health-data-science-and-ai/brunak-group/'>Brunak Group</a>, Department of Public Health, University of Copenhagen.
+subtitle: MSc.Eng Bioinformatics, PhD Student in Brunak Group, University of Copenhagen
 
 profile:
   align: right
-  image: me.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  christian.johansen@cpr.ku.dk
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
