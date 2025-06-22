@@ -25,16 +25,16 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "A collection of projects I have worked on. Both work and hobby.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+        },{id: "projects-aocsuite",
+          title: 'AoCSuite',
+          description: "A helper tool for Advent of Code 🎄.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project.html";
+              window.location.href = "/projects/aocsuite.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
