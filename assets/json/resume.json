@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Christian Holm Johansen",
-    "role": "PhD-Student in Health Data Science",
+    "role": "PhD Student in Health Data Science",
     "image": "",
     "email": "christian.holm.johansen@gmail.com",
     "url": "https://chrhjoh.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time"
+    "summary": "PhD student applying deep learning methods to integrate omics and health registry data for predictive modeling. Dedicated to creating robust, reproducible software solutions that can deliver translational impact and real-world healthcare advancements."
   },
   "work": [
     {
