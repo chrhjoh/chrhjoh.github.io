@@ -101,7 +101,8 @@
         "Polars",
         "Pandas",
         "PostgresSQL",
-        "DuckDB"
+        "DuckDB",
+        "Hugging Face"
       ]
     },
     {
