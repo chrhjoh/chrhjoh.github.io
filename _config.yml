@@ -47,9 +47,9 @@ repo_trophies:
 navbar_fixed: true
 footer_fixed: true
 search_enabled: false
-socials_in_search: true
+socials_in_search: false
 posts_in_search: true
-bib_search: true
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -142,6 +142,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/teaching #TODO: Include later
 keep_files:
   - CNAME
   - .nojekyll
@@ -198,7 +199,7 @@ terser:
 
 scholar:
   last_name: [Johansen]
-  first_name: [Christian, H.]
+  first_name: [Christian, Holm]
 
   style: apa
   locale: en
