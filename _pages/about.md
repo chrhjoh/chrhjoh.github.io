@@ -17,12 +17,11 @@ announcements:
   enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
 ---
 
 Hi there! 🤗
 
-I'm a Phd student working at the intersection of `health data science and machine learning`. I focus on understanding and predicting the progression of complex diseases. My research applies deep learning and nlp methods on electronic health records to `enable earlier disease detection and improved patient stratification`. I’m particularly interested in integration of `omics` and `health registry data`, and  how `heterogeneous and sparse data` types can be effectively represented using methods from LLM's. 
+I'm a Phd student working at the intersection of `health data science and machine learning`. I focus on understanding and predicting the progression of complex diseases. My research applies deep learning and nlp methods on electronic health records to `enable earlier disease detection and improved patient stratification`. I’m particularly interested in integration of `omics` and `health registry data`, and how `heterogeneous and sparse data` types can be effectively represented using methods from LLM's.
 
 During my PhD, I’ve been involved in both predictive and descriptive projects within diabetes research — developing models to stratify progression types in newly diagnosed type 1 diabetes patients, as well as building `predictive models` for underdiagnosed or misdiagnosed patient groups, such as those with young-onset type 2 diabetes or adult-onset type 1 diabetes.
 

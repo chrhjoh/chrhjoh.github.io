@@ -13,11 +13,7 @@
       "position": "PhD Student",
       "startDate": "2023-08-15",
       "endDate": "present",
-      "highlights": [
-        "Integrative Deep Learning",
-        "Big Data",
-        "Multi-omics"
-      ]
+      "highlights": ["Integrative Deep Learning", "Big Data", "Multi-omics"]
     },
     {
       "name": "Novo Nordisk Foundation Center for Protein Research, University of Copenhagen",
@@ -31,9 +27,7 @@
       "position": "Intern",
       "startDate": "2021-09-01",
       "endDate": "2021-12-23",
-      "highlights": [
-        "Sequence Alignment"
-      ]
+      "highlights": ["Sequence Alignment"]
     },
     {
       "name": "Novo Nordisk",
@@ -78,49 +72,23 @@
       "icon": "fa fa-code",
       "name": "Programming",
       "level": "Advanced",
-      "keywords": [
-        "Python",
-        "R",
-        "SQL",
-        "Bash",
-        "Rust",
-        "LaTeX"
-      ]
+      "keywords": ["Python", "R", "SQL", "Bash", "Rust", "LaTeX"]
     },
     {
       "name": "Data Science & Analytics",
       "icon": "fa-solid fa-fire",
-      "keywords": [
-        "Pytorch",
-        "Scikit-learn",
-        "Numpy",
-        "Polars",
-        "Pandas",
-        "PostgresSQL",
-        "DuckDB",
-        "Hugging Face"
-      ]
+      "keywords": ["Pytorch", "Scikit-learn", "Numpy", "Polars", "Pandas", "PostgresSQL", "DuckDB", "Hugging Face"]
     },
     {
       "name": "Visualizations and logging",
       "icon": "fa-solid fa-chart-simple",
-      "keywords": [
-        "Shiny",
-        "Tidyverse",
-        "Dash",
-        "Tensorboard"
-      ]
+      "keywords": ["Shiny", "Tidyverse", "Dash", "Tensorboard"]
     },
     {
       "name": "DevOps & Computing",
       "level": "Advanced",
       "icon": "fa-solid fa-server",
-      "keywords": [
-        "Git",
-        "SLURM",
-        "Docker",
-        "Snakemake"
-      ]
+      "keywords": ["Git", "SLURM", "Docker", "Snakemake"]
     }
   ],
   "certificates": [

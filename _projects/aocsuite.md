@@ -6,6 +6,7 @@ img: assets/img/aoc_thumbnail.jpeg
 importance: 4
 category: hobby
 ---
+
 Advent of Code is an annual coding challenge that blends problem-solving with holiday spirit. AoCSuite helps with some of the smaller tasks—right from the comfort of your terminal—so you can focus on the actual programming.
 
 <div style="float: right; width: 300px; margin-left: 1rem; margin-bottom: 1rem; text-align: center;">
