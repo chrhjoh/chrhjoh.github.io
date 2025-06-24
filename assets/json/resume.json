@@ -13,7 +13,6 @@
       "position": "PhD Student",
       "startDate": "2023-08-15",
       "endDate": "present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": [
         "Integrative Deep Learning",
         "Big Data",
@@ -25,7 +24,6 @@
       "position": "Research Assistant",
       "startDate": "2022-08-15",
       "endDate": "2023-08-15",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": []
     },
     {
@@ -33,7 +31,6 @@
       "position": "Intern",
       "startDate": "2021-09-01",
       "endDate": "2021-12-23",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": [
         "Sequence Alignment"
       ]
@@ -43,7 +40,6 @@
       "position": "Student Assistant",
       "startDate": "2018-06-01",
       "endDate": "2021-09-31",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": []
     }
   ],
@@ -110,7 +106,7 @@
       "icon": "fa-solid fa-chart-simple",
       "keywords": [
         "Shiny",
-        "tidyverse",
+        "Tidyverse",
         "Dash",
         "Tensorboard"
       ]
