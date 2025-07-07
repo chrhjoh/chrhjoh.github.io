@@ -13,7 +13,7 @@
       "position": "PhD Student",
       "startDate": "2023-08-15",
       "endDate": "present",
-      "summary": "Conducting research on the integration and representation of large, longitudinal electronic health record datasets for deep learning applications. A key outcome has been the development of a cost-effective early detection tool for young-onset type 2 diabetes, leveraging both primary and secondary care data within a transformer-based neural network. dditional work focuses on pretraining large deep learning models on EHR data to improve generalizability and performance, particularly in settings with limited labeled data.",
+      "summary": "Conducting research on the integration and representation of large, longitudinal electronic health record datasets for deep learning applications. A key outcome has been the development of a cost-effective early detection tool for young-onset type 2 diabetes, leveraging both primary and secondary care data within a transformer-based neural network. Additional work focuses on pretraining large deep learning models on EHR data to improve generalizability and performance, particularly in settings with limited labeled data.",
       "highlights": ["Integrative Deep Learning", "Predictive modelling", "Transfer Learning"]
     },
     {
