@@ -29,7 +29,7 @@
       "position": "Research Assistant",
       "startDate": "2022-08-15",
       "endDate": "2023-08-15",
-      "summary": "Contributed to a project integrating high-dimensional multi-omics data from newly diagnosed type 1 diabetes patients to predict future C-peptide trajectories, enabling targeted clinical trial designs.",
+      "summary": "Co-lead cross-european research project integrating high-dimensional multi-omics data from newly diagnosed type 1 diabetes patients to predict future C-peptide trajectories for targeted clinical trial designs.",
       "highlights": ["Multi-omics", "Stratification"]
     },
     {
@@ -85,10 +85,9 @@
       "url": "https://doi.org/10.1002/dmrr.3833"
     },
     {
-      "name": "A Deep Learning Approach Across Primary and Secondary Care for Early Detection of Young-Onset Type 2 Diabetes",
-      "publisher": "Preprint - SSRN",
-      "releaseDate": "2025-07-02",
-      "url": "http://dx.doi.org/10.2139/ssrn.5333600 "
+      "name": "Detection of Young-Onset Type 2 Diabetes Using Deep Learning Across Primary and Secondary Care: a nationwide retrospective cohort study",
+      "publisher": "Lancet Digital Health (in press)",
+      "releaseDate": "2025-12-09",
     },
     {
       "name": "Subgrouping patients with ischemic heart disease by means of the Markov cluster algorithm",
@@ -110,7 +109,7 @@
       "keywords": ["Pytorch", "Scikit-learn", "Numpy", "Polars", "Pandas", "PostgresSQL", "DuckDB", "Hugging Face"]
     },
     {
-      "name": "Visualizations and logging",
+      "name": "Visualizations",
       "icon": "fa-solid fa-chart-simple",
       "keywords": ["Shiny", "Tidyverse", "Dash", "Tensorboard"]
     },
