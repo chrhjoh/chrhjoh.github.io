@@ -85,10 +85,16 @@
       "url": "https://doi.org/10.1002/dmrr.3833"
     },
     {
-      "name": "Detection of Young-Onset Type 2 Diabetes Using Deep Learning Across Primary and Secondary Care: a nationwide retrospective cohort study",
-      "publisher": "Lancet Digital Health (in press)",
-      "releaseDate": "2025-12-09",
-      "url": "http://dx.doi.org/10.2139/ssrn.5333600 "
+      "name": "Detection of young-onset type 2 diabetes using deep learning across primary and secondary care: a nationwide, retrospective cohort study",
+      "publisher": "The Lancet Digital Health",
+      "releaseDate": "2026-05",
+      "url": "https://doi.org/10.1016/j.landig.2025.100968"
+    },
+    {
+      "name": "Development and validation of a neural network survival prediction model for ischemic heart disease",
+      "publisher": "Cardiovascular Diabetology",
+      "releaseDate": "2026-01-28",
+      "url": "https://doi.org/10.1186/s12933-026-03078-3"
     },
     {
       "name": "Subgrouping patients with ischemic heart disease by means of the Markov cluster algorithm",
