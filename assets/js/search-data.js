@@ -23,19 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "A collection of projects I have worked on. Both work and hobby.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "projects-aocsuite",
-          title: 'AoCSuite',
-          description: "A helper tool for Advent of Code 🎄.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/aocsuite.html";
-            },},{
+        },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
